@@ -20,7 +20,7 @@ public class NavigateMethods {
 		//driver.get("https://www.flipkart.com");
 		Thread.sleep(2000);
 		driver.navigate().back();
-	
+	System.out.println("hi");
 	Thread.sleep(2000);
 	driver.navigate().forward();
 	
