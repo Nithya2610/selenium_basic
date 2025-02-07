@@ -21,6 +21,7 @@ public class NavigateMethods {
 		Thread.sleep(2000);
 		driver.navigate().back();
 	System.out.println("hi");
+		System.out.println("hello");
 	Thread.sleep(2000);
 	driver.navigate().forward();
 	
